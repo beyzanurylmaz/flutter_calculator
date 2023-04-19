@@ -1,3 +1,3 @@
 # Flutter ile Calculator Uygulaması
 
-![calc](https://user-images.githubusercontent.com/90965586/233125226-00854794-e646-4f9e-ad80-c6f5b54820d6.png)
+![calc](https://user-images.githubusercontent.com/90965586/233125717-54f35fdf-378f-4f8c-a5b5-6aad55c03517.png)
